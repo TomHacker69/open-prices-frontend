@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.178.2](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.178.1...v1.178.2) (2026-11-15)
+
+
+### Technical
+
+* **Data:** update generated data from taxonomies ([#2531](https://github.com/openfoodfacts/open-prices-frontend/issues/2531)) ([b03f792](https://github.com/openfoodfacts/open-prices-frontend/commit/b03f7928588cb0d08a15ac1ec01492459b2d27c4))
+
 ## [1.178.1](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.178.0...v1.178.1) (2026-11-09)
 
 
